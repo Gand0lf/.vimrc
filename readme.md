@@ -1,7 +1,7 @@
 # Prerequisites
 * WSL or (current) Linux dist
 * Vim installation with "+python3" support (check with `vim --version` form terminal)
-* vundle/bundle manager installed. Instructions [here](https://github.com/VundleVim/Vundle.vim.git) (`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`)
+* vundle/bundle manager installed. Instructions [here](https://github.com/VundleVim/Vundle.vim.git). Essentially no need: `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 # Installation
 
