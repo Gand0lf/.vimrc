@@ -11,3 +11,4 @@
 
 ## additionally
 * goes fine with https://github.com/gpakosz/.tmux
+* note that gutentags Plugin requires 'ctags' executable
