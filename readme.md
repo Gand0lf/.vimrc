@@ -1,6 +1,6 @@
 # Prerequisites
 * WSL or (current) Linux dist
-* Vim installation with "+python3" support (check with `vim --version` form terminal) you can `sudo remove vim` and `sudo apt install vim-gtk`if python3 not supported.
+* Vim installation with "+python3" support (check with `vim --version` form terminal) you can `sudo apt-get remove vim` and `sudo apt install vim-gtk`if python3 not supported.
 * vundle/bundle manager installed. Instructions [here](https://github.com/VundleVim/Vundle.vim.git). Essentially you need: `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 # Installation
