@@ -8,6 +8,7 @@
 * copy this .vimrc to your home folder (assuming vim default behavior)
 * in vim (command mode) run `:PluginInstall`
 * from https://github.com/powerline/fonts install powerline patched fonts and change terminal fonts to one of the new fonts (settings, general etc.)
+* for ycm installation https://ycm-core.github.io/YouCompleteMe/#installation
 
 ## additionally
 * goes fine with https://github.com/gpakosz/.tmux
