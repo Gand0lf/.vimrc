@@ -119,3 +119,7 @@ let python_highlight_all=1
 syntax on
 set nu
 set clipboard=unnamed
+
+"highlight search results from / and ?, toggle highlight <F3>
+set hlsearch!
+nnoremap <F3> :set hlsearch!<CR>
